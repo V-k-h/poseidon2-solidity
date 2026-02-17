@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@aztec/foundation": "^2.1.11"
+  }
+}

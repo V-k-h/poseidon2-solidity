@@ -1,0 +1,48 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Parameters match Barretenberg / bb.js `poseidon2Hash` used by Noir stdlib.",
+			"kind": "dev",
+			"methods": {},
+			"title": "Poseidon2T4 (BN254 scalar field)",
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"notice": "Poseidon2 permutation with t=4, d=5, rounds_f=8, rounds_p=56",
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Poseidon2T4.sol": "Poseidon2T4"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Poseidon2T4.sol": {
+			"keccak256": "0xd3ce9f518d078f4c79f5881806fddab0f0c1535d22925f268b4b9302c0f83fa2",
+			"license": "UNLICENSED",
+			"urls": [
+				"bzz-raw://e11024b02b7124ca794c15b0e096f8ed0f9d38d6eeabbb78c5e0453c2d71e7cb",
+				"dweb:/ipfs/QmNrRpbH4LMyP9fsDWxYp8dX1nyyPXwzRscpmTiCcwgph7"
+			]
+		}
+	},
+	"version": 1
+}
