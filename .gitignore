@@ -1,4 +1,9 @@
 out/
 cache/
+artifacts/
 node_modules/
+.deps/
+.states/
 .env
+remix.config.json
+*.lock
